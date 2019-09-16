@@ -1,39 +1,36 @@
 ## [ 镜像站 ]
-    阿里云 https://opsx.alibaba.com/mirror?lang=zh-CN
+    阿里云: https://opsx.alibaba.com/mirror?lang=zh-CN
   
-    网  易 http://mirrors.163.com/
+    网  易: http://mirrors.163.com/
   
-    清  华 https://mirrors.tuna.tsinghua.edu.cn/
+    清  华: https://mirrors.tuna.tsinghua.edu.cn/
   
-    搜  狐 http://mirrors.sohu.com/
+    搜  狐: http://mirrors.sohu.com/
   
-    华  为 https://mirrors.huaweicloud.com/
+    华  为: https://mirrors.huaweicloud.com/
 
 ## [ Centos ]
-    Centos官方下载     https://mirror-status.centos.org/#cn    
+    Centos官方: https://mirror-status.centos.org/#cn    
 
-    CentOS7.6下载(64)  http://mirrors.sohu.com/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso
+    CentOS7.6(64): http://mirrors.sohu.com/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso
    
                  或者  http://mirrors.163.com/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso
     
-    CentOS7.0下载(64)  http://mirror.nsc.liu.se/centos-store/7.0.1406/isos/x86_64/CentOS-7.0-1406-x86_64-DVD.iso
+    CentOS7.0(64): http://mirror.nsc.liu.se/centos-store/7.0.1406/isos/x86_64/CentOS-7.0-1406-x86_64-DVD.iso
 
-    Centos老版本下载   http://vault.centos.org/
+     Centos老版本: http://vault.centos.org/
 
-## [ Virtual]
-    vmware10下载    http://pan.baidu.com/s/1eQxOVPC
-    virtualbox下载  https://www.virtualbox.org/wiki/Downloads
+## [ VM ]
+    vmware10: http://pan.baidu.com/s/1eQxOVPC
 
-### 百度网盘加速器
+    virtualbox: https://www.virtualbox.org/wiki/Downloads
 
-    https://pandownload.com/
+## [ TOOLS ]
+   百度网盘加速器   https://pandownload.com/
     
-### puTTY官方下载地址：
+   puTTY官方下载    https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
-    https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
-
-### Xshell个人版下载
-    https://www.netsarang.com/zh/free-for-home-school/
+   Xshell个人版下载 https://www.netsarang.com/zh/free-for-home-school/
 
 
 ### MySQL下载地址：

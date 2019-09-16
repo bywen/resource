@@ -1,29 +1,18 @@
 ## [ 镜像站 ]
 
-#### 阿里云 
-    https://opsx.alibaba.com/mirror?lang=zh-CN
-####    网  易
-    http://mirrors.163.com/
-####    清  华
-    https://mirrors.tuna.tsinghua.edu.cn/
-####    搜  狐
-    http://mirrors.sohu.com/
-####    华  为
-    https://mirrors.huaweicloud.com/
+ 阿里云  https://opsx.alibaba.com/mirror?lang=zh-CN
+ 网  易  http://mirrors.163.com/
+ 清  华  https://mirrors.tuna.tsinghua.edu.cn/
+ 搜  狐  http://mirrors.sohu.com/
+ 华  为  https://mirrors.huaweicloud.com/
 
-### [ Centos ]
-    Centos官方下载
-    https://mirror-status.centos.org/#cn    
+## [ Centos ]
+  Centos官方下载  https://mirror-status.centos.org/#cn    
 
-### CentOS7.6下载地址：
-
-    64位  http://mirrors.sohu.com/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso
-
-          http://mirrors.163.com/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso
+  CentOS7.6下载(64)  http://mirrors.sohu.com/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso
+               或者  http://mirrors.163.com/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso
     
-### CentOS7.0下载：
-    
-    64位 http://mirror.nsc.liu.se/centos-store/7.0.1406/isos/x86_64/CentOS-7.0-1406-x86_64-DVD.iso
+  CentOS7.0下载(64)  http://mirror.nsc.liu.se/centos-store/7.0.1406/isos/x86_64/CentOS-7.0-1406-x86_64-DVD.iso
 
 
 ### centos老版本下载地址：

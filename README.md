@@ -1,7 +1,7 @@
 ## [ 镜像站 ]
-#### 阿里云 https://opsx.alibaba.com/mirror?lang=zh-CN
+    阿里云 https://opsx.alibaba.com/mirror?lang=zh-CN
   
-#### 网  易 http://mirrors.163.com/
+    网  易 http://mirrors.163.com/
   
     清  华 https://mirrors.tuna.tsinghua.edu.cn/
   
@@ -10,23 +10,19 @@
     华  为 https://mirrors.huaweicloud.com/
 
 ## [ Centos ]
-    Centos官方下载  https://mirror-status.centos.org/#cn    
+    Centos官方下载     https://mirror-status.centos.org/#cn    
 
     CentOS7.6下载(64)  http://mirrors.sohu.com/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso
    
-
-    或者  http://mirrors.163.com/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso
+                 或者  http://mirrors.163.com/centos/7.6.1810/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso
     
     CentOS7.0下载(64)  http://mirror.nsc.liu.se/centos-store/7.0.1406/isos/x86_64/CentOS-7.0-1406-x86_64-DVD.iso
 
+    Centos老版本下载   http://vault.centos.org/
 
-### centos老版本下载地址：
-
-    http://vault.centos.org/
-
-### vmware10下载地址：
-
-    http://pan.baidu.com/s/1eQxOVPC
+## [ Virtual]
+    vmware10下载    http://pan.baidu.com/s/1eQxOVPC
+    virtualbox下载  https://www.virtualbox.org/wiki/Downloads
 
 ### 百度网盘加速器
 

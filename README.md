@@ -18,12 +18,12 @@
     
     CentOS7.0(64): http://mirror.nsc.liu.se/centos-store/7.0.1406/isos/x86_64/CentOS-7.0-1406-x86_64-DVD.iso
 
-     Centos老版本: http://vault.centos.org/
+    Centos老版本: http://vault.centos.org/
 
 ## 【 VM下载 】
-    vmware10:   http://pan.baidu.com/s/1eQxOVPC
+    vmware10:  http://pan.baidu.com/s/1eQxOVPC
 
-    virtualbox: https://www.virtualbox.org/wiki/Downloads
+    virtualbox:  https://www.virtualbox.org/wiki/Downloads
 
 ## 【 TOOLS下载 】
    百度网盘加速器   https://pandownload.com/
@@ -49,19 +49,16 @@
     
 ## 【MariaDB下载 】
 
-10.2.6 64位二进制包 
-https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86_64/mariadb-10.2.6-linux-glibc_214-x86_64.tar.gz
+10.2.6 64位二进制包: https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86_64/mariadb-10.2.6-linux-glibc_214-x86_64.tar.gz
  
-10.2.6 32位二进制包 
-https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86/mariadb-10.2.6-linux-glibc_214-i686.tar.gz
+10.2.6 32位二进制包: https://downloads.mariadb.com/MariaDB/mariadb-10.2.6/bintar-linux-glibc_214-x86/mariadb-10.2.6-linux-glibc_214-i686.tar.gz
    
-10.3.11 64位二进制包 
-http://mirrors.neusoft.edu.cn/mariadb//mariadb-10.3.11/bintar-linux-x86_64/mariadb-10.3.11-linux-x86_64.tar.gz
+10.3.11 64位二进制包: http://mirrors.neusoft.edu.cn/mariadb//mariadb-10.3.11/bintar-linux-x86_64/mariadb-10.3.11-linux-x86_64.tar.gz
 
 ## 【 Apache下载 】
-    官方        http://www.apache.org/mirrors/#cn
+    官方 http://www.apache.org/mirrors/#cn
     
-    2.4  http://mirror.bit.edu.cn/apache/httpd/httpd-2.4.39.tar.gz
+    2.4:  http://mirror.bit.edu.cn/apache/httpd/httpd-2.4.39.tar.gz
     
     2.2源码包： https://ftp.bit.nl/apache/httpd-2.2.29.tar.gz  
     
@@ -74,7 +71,7 @@ http://mirrors.neusoft.edu.cn/mariadb//mariadb-10.3.11/bintar-linux-x86_64/maria
     apr-util: http://mirrors.cnnic.cn/apache/apr/apr-util-1.6.1.tar.gz
     
 
-##【 Nginx下载 】
+## 【 Nginx下载 】
 
     1.14源码包： http://nginx.org/download/nginx-1.14.2.tar.gz
 
@@ -154,7 +151,7 @@ http://mirrors.neusoft.edu.cn/mariadb//mariadb-10.3.11/bintar-linux-x86_64/maria
     官方：https://www.zabbix.com/download
     
 
-###【 网络相关电子书 】
+## 【 网络相关电子书 】
 
     http://pan.baidu.com/s/1kTlDi8f
     
@@ -171,12 +168,12 @@ http://mirrors.neusoft.edu.cn/mariadb//mariadb-10.3.11/bintar-linux-x86_64/maria
     在线版 http://code.ziqiangxuetang.com/python/python-tutorial.html
     
     
-##【 django基础教程 】
+## 【 django基础教程 】
     
     http://djangobook.py3k.cn/2.0/
     
     http://code.ziqiangxuetang.com/django/django-tutorial.html
     
-##【  iTop下载 】
+## 【  iTop下载 】
 
     https://jaist.dl.sourceforge.net/project/itop/itop/2.3.4/iTop-2.3.4-3302.zip
